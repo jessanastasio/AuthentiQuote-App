@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AuthentiQuote</string>
+    <string name="hello_world">Hello world! This is an A Team app</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="quotes">
+        <item>Live long and prosper.</item>
+        <item>Make your own magic.</item>
+        <item>The fear of being boring is a great motivator.</item>
+        <item>My only regret is that I did not tell enough people to fuck off.</item>
+        <item>Well, that didn\'t work.</item>
+        <item>I\'m not searching for my other half because I\'m not a half.</item>
+        <item>I doubt vodka is the answer but it’s worth a shot.</item>
+        <item>Do or do not, there is no try.</item>
+        <item>Hakuna Matata</item>
+        <item>Who says you have to grow up?</item>
+        <item>Work hard, dream big.</item>
+        <item>There are far, far better things ahead than any we leave behind.</item>
+        <item>Life is like a box of chocolates.</item>
+        <item>You go Glen Coco.</item>
+        <item>If you obey all the rules, you miss all the fun.</item>
+        <item>Curiosity is the lust of the mind.</item>
+        <item>I\'m not lazy, I\'m just on my energy saving mode.</item>
+        <item>I just passed my drug test. My dealer has some explaining to do.</item>
+        <item>Everything I like is either expensive, illegal, or doesn\'t text back.</item>
+        <item>You are not a product of those who cannot love you.</item>
+        <item>What a boobs. I\'ve never seen this type of beautiful boobs.</item>
+        <item>Clitoris? I\'ve never heard of that Pokemon.</item>
+        <item>Do emails get delivered on Sundays?</item>
+    </string-array>
+    <string-array name="authors">
+        <item>Spock</item>
+        <item>Anonymous</item>
+        <item>Anonymous</item>
+        <item>Anonymous</item>
+        <item>An Autobiography</item>
+        <item>Anonymous</item>
+        <item>YikYak Post</item>
+        <item>Yoda</item>
+        <item>The Lion King</item>
+        <item>Walt Disney</item>
+        <item>Anonymous</item>
+        <item>C.S. Lewis</item>
+        <item>Forrest Gump</item>
+        <item>Mean Girls</item>
+        <item>Katharine Hepburn</item>
+        <item>Thomas Hobbes</item>
+        <item>Anonymous</item>
+        <item>YikYak Post</item>
+        <item>YikYak Post</item>
+        <item>Anonymous</item>
+        <item>PornHub Comments on Valentines</item>
+        <item>Anonymous</item>
+        <item>Grandma</item>
+    </string-array>
+    <string-array name="toastMsgs">
+        <item>Next quote!</item>
+        <item>Shake me harder ;)</item>
+        <item>Fetching you a quote</item>
+        <item>Woah relax</item>
+        <item>Quit jerking your phone off</item>
+    </string-array>
+    <string-array name="colors">
+        <item>#009688</item>
+        <item>#3F51B5</item>
+        <item>#F44336</item>
+        <item>#D2E04D</item>
+    </string-array>
+
+    <string name="shareText">        Share Text</string>
+    <string name="title_activity_share">share</string>
+
+</resources>
